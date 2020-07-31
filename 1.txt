@@ -1,8 +1,0 @@
-123434254325345
-1234
-#include<iostream>
-using namespace std;
-int main()
-{
-	printf(hhh)
-}
